@@ -1,5 +1,4 @@
 # Apache Subversion JavaHL
-[![Build Status](https://travis-ci.org/subclipse/javahl.svg?branch=master)](https://travis-ci.org/subclipse/javahl)
 [![Download](https://api.bintray.com/packages/teamcode/maven/javahl/images/download.svg) ](https://bintray.com/teamcode/maven/javahl/_latestVersion)
 
 이 프로젝트는 Apache Subversion 프로젝트에서 제공하는 JavaHL 소스 코드를
